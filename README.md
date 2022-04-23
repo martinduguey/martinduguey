@@ -2,6 +2,8 @@
 
 
 - 🔭 I’m currently working on machine learning for unstructured meshes and spaces discretizations on a steady Euler's problem at ONERA (6 months internship). 
+
+More about me 
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -10,3 +12,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Cover](img/timo-trilk-TVzG6bxHFK4-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@tyybone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Timo Trilk</a> on <a href="https://unsplash.com/t/wallpapers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
