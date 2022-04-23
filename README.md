@@ -1,3 +1,5 @@
+![Cover](img/timo-trilk-TVzG6bxHFK4-unsplash.jpg)
+
 ### Hi there 👋
 
 
@@ -12,8 +14,6 @@ More about me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Cover](img/timo-trilk-TVzG6bxHFK4-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@tyybone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Timo Trilk</a> on <a href="https://unsplash.com/t/wallpapers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
