@@ -4,7 +4,7 @@
 
 ## Currently working on...
 <h>
-- 🔭 I’m currently working on machine learning for spaces discretizations on a steady Euler's problem with unstructured meshes at ONERA (6 months internship). 
+- 🔭 I’m currently working on machine learning for spaces discretizations on a steady Euler's problem at ONERA (6 months internship). 
 
 
 More about me <a href="https://martinduguey.github.io/personnalpage/">here</a>.
