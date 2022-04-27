@@ -1,5 +1,5 @@
 ![Cover](img/timo-trilk-TVzG6bxHFK4-unsplash.jpg)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinduguey)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
