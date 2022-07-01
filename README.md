@@ -1,11 +1,11 @@
-![Cover](img/timo-trilk-TVzG6bxHFK4-unsplash.jpg)
+<!--![Cover](img/timo-trilk-TVzG6bxHFK4-unsplash.jpg)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinduguey&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Hi there 👋
+<!--### Hi there 👋-->
 
 ## Currently working on...
 <h>
-- 🔭 I’m currently working on machine learning for spaces discretizations on a steady Euler's problem at ONERA (6 months internship). 
+- 🔭 I’m currently working on machine learning for space discretization on a steady Euler's problem at ONERA (6 months internship). 
 
 
 More about me <a href="https://martinduguey.github.io/personnalpage/">here</a>.
