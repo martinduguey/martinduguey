@@ -5,7 +5,7 @@
 
 ## Currently working on...
 <h>
-- 🔭 I’m currently working on machine learning for space discretization on a steady Euler's problem at ONERA (6 months internship). 
+- 🔭 I’m currently working on calibration and simulation of Heston model in a pricing Python library at Exiom Partners (6 months internship). 
 
 
 More about me <a href="https://martinduguey.github.io/personnalpage/">here</a>.
