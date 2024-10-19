@@ -1,4 +1,4 @@
-<!--![Cover](img/timo-trilk-TVzG6bxHFK4-unsplash.jpg)-->
+![Cover]()
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinduguey&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--### Hi there 👋-->
@@ -18,5 +18,5 @@ More about me <a href="https://martinduguey.github.io/personnalpage/">here</a>.
 - ⚡ Fun fact: ...
 -->
 
-<!--Photo by <a href="https://unsplash.com/@tyybone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Timo Trilk</a> on <a href="https://unsplash.com/t/wallpapers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>-->
+Photo by <a href="https://unsplash.com/fr/@withluke?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Luke Stackpoole</a> sur <a href="https://unsplash.com/fr/photos/personne-marchant-sur-une-voie-pietonne-entre-des-batiments-FA8HEWO9Vd8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
