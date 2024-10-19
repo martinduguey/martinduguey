@@ -5,7 +5,7 @@
 
 ## Currently working on...
 <h>
-- 🔭 I’m currently working on calibration and simulation of Heston model in a pricing Python library at Exiom Partners (6 months internship). 
+- 🔭 I’m currently working as a VIE within Societe Generale CIB platform in the US. I am focusing on pricing structured products on Rates, FX and Credit underlying. 
 
 
 More about me <a href="https://martinduguey.github.io/personnalpage/">here</a>.
