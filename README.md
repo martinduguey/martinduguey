@@ -1,4 +1,4 @@
-![Cover]()
+![Cover](img/luke-stackpoole-FA8HEWO9Vd8-unsplash.jpg)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinduguey&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--### Hi there 👋-->
